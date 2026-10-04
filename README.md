@@ -2,11 +2,9 @@
 
 **Evidence-led application document processing and review workspace.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-open%20SmartApply-6d5dfc)](https://smartapply.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-open%20SmartApply-6d5dfc)](https://smartapply-1-cfix.onrender.com/)
 
-> **Live Demo:** [Open SmartApply](https://smartapply.onrender.com/)
->
-> Update this link to the confirmed production URL before final submission if the hosting provider assigns a different URL.
+> **Live Demo:** [Open SmartApply](https://smartapply-1-cfix.onrender.com/)
 
 ## What it does
 
