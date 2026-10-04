@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Smart Application Processing"},{"path":"/application/:id","title":"Application review"},{"path":"/results/:id","title":"Analysis results"},{"path":"/admin","title":"Admin dashboard"}]}

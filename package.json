@@ -1,0 +1,15 @@
+{
+  "name": "smartapply",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.12.4",
+  "onlyBuiltDependencies": ["esbuild"],
+  "scripts": {
+    "install:frontend": "pnpm --dir frontend install",
+    "build:frontend": "pnpm --dir frontend build",
+    "typecheck": "pnpm --dir frontend typecheck",
+    "test:backend": "PYTHONPATH=. pytest -q backend/tests",
+    "dev": "bash ./scripts/dev.sh",
+    "start": "bash ./scripts/start.sh"
+  }
+}
