@@ -2,7 +2,7 @@ FROM node:22-bookworm-slim AS frontend-build
 WORKDIR /app/frontend
 COPY frontend/package.json ./
 COPY frontend/.npmrc ./
-RUN corepack enable && pnpm install --no-frozen-lockfile --allow-build
+RUN corepack enable && pnpm install --no-frozen-lockfile --allow-build esbuild
 COPY frontend/ ./
 RUN pnpm build
 
